@@ -2,8 +2,3 @@ streamlit
 pandas
 plotly
 requests
-bs4
-BeautifulSoup
-sqlite3
-sqlalchemy
-create_engine
